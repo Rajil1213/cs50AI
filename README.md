@@ -1,4 +1,4 @@
-# My Work From The Course CS50AI
+# My Work From [CS50AI](http://cs50.harvard.edu/ai/)
 
 ## This repo contains
 
@@ -24,5 +24,7 @@
 * [`Week 6`](./Week6) - Solutionn to:
   * [`parser`](./Week6/parser/parser.py) : generates all possible parse trees and noun phrase chunks for the given set of grammar rules and vocabulary
   * [`questions`](./Week7/questions/questions.py) : uses TF-IDF algorithm to answer questions supplied by the user based on the given corpus of (wikipedia) text files
+
+## The Output Demo for each of the above projects is available [here](https://www.youtube.com/watch?v=VaIzKbgbZus&list=PLjW6qZzRxHChlqUlIZSY2TtqJ9TUwd027).
 
 *The rest of the files were coded/provided by the CS50 team*
