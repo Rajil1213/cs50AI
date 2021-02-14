@@ -11,11 +11,11 @@
   * [`minesweeper`](./Week1/minesweeper.py) : a game of minesweeper where you can ask the AI to make a move for you
 
 * [`Week 2`](./Week2) - Solution to: 
-  * ['heredity`](./Week2/heredity/heredity.py) : checks if the offspring contains a certain gene given a family tree and rules of transmission
-  * ['pagerank`](./Week2/pagerank/pagerank.py) : evaluates pagerank using the PageRank Algorithm, for the given corpus of HTML webpages
+  * [`heredity`](./Week2/heredity/heredity.py) : checks if the offspring contains a certain gene given a family tree and rules of transmission
+  * [`pagerank`](./Week2/pagerank/pagerank.py) : evaluates pagerank using the PageRank Algorithm, for the given corpus of HTML webpages
 
 * [`Week 3`](./Week3) - Solution to:
-  * ['crossword`](./Week3/crossword/crossword.py) : generates a crossword by based on given configuration and glossary of words
+  * [`crossword`](./Week3/crossword/crossword.py) : generates a crossword by based on given configuration and glossary of words
 
 * [`Week 4`](./Week4) - Solution to:
   * [`nim`](./Week4/nim/nim.py) : trains an AI to play the game of NIM and NEVER loses
